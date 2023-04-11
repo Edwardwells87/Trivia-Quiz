@@ -1,0 +1,69 @@
+body {
+  background-image: url(./images/90s\ vector\ background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+#header {
+  background-image: url(./images/90s\ background2.jpg);
+  border-style: solid;
+
+  margin: 0;
+  padding: 0;
+  -webkit-text-stroke: #173f3f;
+  -webkit-text-stroke-width: 02px;
+  font-family: sans-serif;
+  font-variant: small-caps;
+  color: #de9fd7;
+  font-size: 80px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: rgb(255, 240, 242);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#question-container {
+  background-color: hotpink;
+  background-image: url(./images/pink\ 90s\ question\ background.jpg);
+  color: #ffffff;
+  border-style: solid;
+  padding: 2rem;
+  border-color: blueviolet;
+  margin: 3rem;
+  text-align: center;
+  font-size: 55px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#timer-container {
+  border-style: solid;
+  font-size: 45px;
+  display: inline-block;
+  background-color: rgb(112,198,185);
+  font:bold;
+  color: rgb(254,222,121);
+  margin: 1rem;
+}
+
+#choices-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+button {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 3rem;
+  color: rgb(41, 35, 41);
+  background-image: url(./images/buttonbackground.png);
+  background-color: rgb;
+  color-scheme: dark;
+  border-radius: 7rem;
+  border-color: rgb(0, 213, 221);
+  border-width: 4px;
+  padding: 1rem;
+}
