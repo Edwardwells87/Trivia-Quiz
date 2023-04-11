@@ -88,7 +88,7 @@ function showQuestion() {
         console.log('Quiz finished!');
         let ender = true;
         let userName = prompt("Please Enter Name and Social Security Number");
-        confirm('your score is: ' + score + ' pressing cancel will reset high scores');
+        confirm('your score is: ' + score);
         if (userName && score) {
           let userInput = [(userName + score)];
           console.log("bingo");
