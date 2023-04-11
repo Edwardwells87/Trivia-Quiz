@@ -16,6 +16,8 @@ The 90s trivia quiz is poorly styled after what a kid might have seen if they ch
 
 ## Deployment and Use
 
+I had some initial issues with my pushes. I didn't realize that my html files were sitting outside of my repo folder so my pushes weren't sending anything but changes to the readme. Testing from live appears fine now. Have fun with the quiz!
+
 This application was originally designed for an assignment and should not be utilized for it designed purpose. However, it is live and viewable at:
 https://edwardwells87.github.io/Trivia-Quiz/
 
